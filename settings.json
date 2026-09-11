@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 27654,
+    "ip": "GARFATA.aternos.me",
+    "port": 11829,
     "version": "1.21.1",
     "try-creative": false
   },
